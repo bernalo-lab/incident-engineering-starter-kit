@@ -120,3 +120,45 @@ We run a community where engineers discuss:
 
 👉 **Join here:**  
 https://www.skool.com/incident-engineering-academy-3597
+
+---
+
+# Join the Incident Engineering Community
+
+The Incident Engineering community is growing across multiple platforms where engineers share real production incidents, debugging techniques, and failure investigation strategies.
+
+## Skool Community
+
+A learning community focused on incident investigation, debugging frameworks, and production engineering.
+
+Inside the community we discuss:
+
+- real production incidents
+- debugging techniques
+- observability strategies
+- failure pattern analysis
+- incident postmortems
+
+👉 Join the community:  
+https://www.skool.com/@bosun-sogeke-6152
+
+---
+
+## Reddit Community
+
+We have also launched a dedicated subreddit for engineers to share and discuss **real-world production incidents**.
+
+Topics include:
+
+- production outages
+- incident debugging stories
+- failure pattern analysis
+- SRE war stories
+- observability lessons
+
+👉 Join the subreddit:  
+https://www.reddit.com/r/IncidentEngineering/
+
+---
+
+Together these communities aim to build a **shared knowledge base of production failures and debugging techniques for engineers operating real systems.**
