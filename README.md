@@ -114,4 +114,4 @@ We run a community where engineers discuss:
 - failure patterns  
 
 👉 **Join here:**  
-https://www.skool.com/@bosun-sogeke-6152
+https://www.skool.com/incident-engineering-academy-3597
