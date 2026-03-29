@@ -111,20 +111,6 @@ Click the links above to download the resources.
 
 # Join the Incident Engineering Community
 
-We run a community where engineers discuss:
-
-- real production incidents  
-- debugging techniques  
-- observability strategies  
-- failure patterns  
-
-👉 **Join here:**  
-https://www.skool.com/incident-engineering-academy-3597
-
----
-
-# Join the Incident Engineering Community
-
 The Incident Engineering community is growing across multiple platforms where engineers share real production incidents, debugging techniques, and failure investigation strategies.
 
 ## Skool Community
