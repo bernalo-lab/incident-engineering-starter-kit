@@ -4,6 +4,11 @@ A collection of practical resources for engineers investigating production incid
 
 ---
 
+[Join Skool](https://www.skool.com/@bosun-sogeke-6152) | 
+[Reddit Community](https://www.reddit.com/r/IncidentEngineering/)
+
+---
+
 # Contents
 
 ## 1️⃣ Production Incident Starter Kit  
