@@ -7,7 +7,7 @@ A collection of practical resources for engineers investigating production incid
 # Contents
 
 ## 1️⃣ Production Incident Starter Kit  
-📄 [Download PDF](./pdf/The%20Production%20Incident%20Starter%20Kit%20v1.pdf)
+📄 [Download PDF](./pdf/The_Production_Incident_Starter_Kit_v1.pdf)
 
 A practical starter bundle designed to help engineers investigate production incidents more effectively.
 
@@ -16,7 +16,7 @@ The kit includes a **debugging cheat sheet, example AWS log queries, and a postm
 ---
 
 ## 2️⃣ Incident Response Playbook  
-📄 [Download PDF](./pdf/Incident%20Response%20Playbook%20v1.pdf)
+📄 [Download PDF](./pdf/The_Incident_Response_Playbook_v1.pdf)
 
 A structured guide explaining how experienced engineering teams handle production incidents under pressure.
 
@@ -33,7 +33,7 @@ It provides practical techniques for coordinating response efforts, assigning ro
 ---
 
 ## 3️⃣ 20 Production Failure Patterns  
-📄 [Download PDF](./pdf/20%20Production%20Failure%20Patterns%20v1.pdf)
+📄 [Download PDF](./pdf/The_Production_Failure_Patterns_v1.pdf)
 
 A field guide to the most common failure scenarios engineers encounter in modern distributed systems.
 
@@ -50,7 +50,7 @@ Recognising these patterns enables **faster root cause identification during pro
 ---
 
 ## 4️⃣ 10-Minute Debugging Framework  
-📄 [Download PDF](./pdf/10-Minute%20Debugging%20Framework%20v1.pdf)
+📄 [Download PDF](./pdf/The_10-Minute_Debugging_Framework_v1.pdf)
 
 A simple investigation method engineers can use during the **first critical minutes of a production incident**.
 
@@ -65,7 +65,7 @@ The framework provides a structured triage process that helps responders quickly
 ---
 
 ## 5️⃣ Ultimate Incident Engineering Toolkit  
-📄 [Download PDF](./pdf/Ultimate%20Incident%20Engineering%20Toolkit%20v1.pdf)
+📄 [Download PDF](./pdf/The_Ultimate_Incident_Engineering_Toolkit_v1.pdf)
 
 A curated overview of essential tools used by modern **SRE and DevOps teams** to detect, investigate, and resolve production incidents.
 
