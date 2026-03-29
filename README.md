@@ -33,7 +33,7 @@ It provides practical techniques for coordinating response efforts, assigning ro
 ---
 
 ## 3️⃣ 20 Production Failure Patterns  
-📄 [Download PDF](./pdf/The_Production_Failure_Patterns_v1.pdf)
+📄 [Download PDF](./pdf/The_20_Most_Common_Production_Failure_Patterns_v1.pdf)
 
 A field guide to the most common failure scenarios engineers encounter in modern distributed systems.
 
@@ -50,7 +50,7 @@ Recognising these patterns enables **faster root cause identification during pro
 ---
 
 ## 4️⃣ 10-Minute Debugging Framework  
-📄 [Download PDF](./pdf/The_10-Minute_Debugging_Framework_v1.pdf)
+📄 [Download PDF](./pdf/The_10-Minute_Production_Incident_Debugging_Framework_v1.pdf)
 
 A simple investigation method engineers can use during the **first critical minutes of a production incident**.
 
