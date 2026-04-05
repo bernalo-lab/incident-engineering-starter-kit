@@ -126,7 +126,7 @@ Inside the community we discuss:
 - incident postmortems
 
 👉 Join the community:  
-https://www.skool.com/@bosun-sogeke-6152
+https://www.skool.com/incident-engineering-academy-3597
 
 ---
 
